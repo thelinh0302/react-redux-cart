@@ -1,0 +1,44 @@
+{
+  "product": [
+    {
+      "name": "Iphone 11",
+      "images": "https://cdn.tgdd.vn/Products/Images/42/210653/iphone-11-pro-max-256gb-black-600x600.jpg",
+      "price": 1000,
+      "quantity": 20,
+      "status": 1,
+      "id": 1
+    },
+    {
+      "name": "Iphone XS max",
+      "images": "https://didongmango.com/images/products/2019/11/27/resized/apple-iphone-xs-max-256gb-a12bionic-oro-1433046-1_l_1541042142_1557213123-copy_1574821522.png",
+      "price": "1200",
+      "quantity": "20",
+      "status": 3,
+      "id": 6
+    },
+    {
+      "name": "Iphone 11 pro",
+      "images": "https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/1274038935.png",
+      "price": "1000",
+      "quantity": "20",
+      "status": 2,
+      "id": 8
+    },
+    {
+      "name": "iphone 8",
+      "images": "https://cdn.tgdd.vn/Products/Images/42/114110/iphone-8-plus-1-400x460.png",
+      "price": "800",
+      "quantity": "20",
+      "status": 0,
+      "id": 9
+    },
+    {
+      "name": "iphone 8",
+      "images": "hình",
+      "price": "700",
+      "quantity": "20",
+      "status": 0,
+      "id": 10
+    }
+  ]
+}

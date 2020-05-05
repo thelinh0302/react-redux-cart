@@ -1,0 +1,9 @@
+export const SHOW_MODAL = 'SHOW_MODAL'
+export const HIDE_MODAL = 'HIDE_MODAL'
+export const SHOW_TITLE = 'SHOW_TITLE'
+export const SHOW_COMPONENT = 'SHOW_COMPONENT'
+
+export const SHOW_MODAL_CART = 'SHOW_MODAL_CART'
+export const HIDE_MODAL_CART = 'HIDE_MODAL_CART'
+export const SHOW_TITLE_CART = 'SHOW_TITLE_CART'
+export const SHOW_COMPONENT_CART = 'SHOW_COMPONENT_CART'
